@@ -23,3 +23,4 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   array.shift()
 }
 
+function removeEleme
